@@ -1,0 +1,7 @@
+{
+  "name": "webmailin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Krzysztof Karol <krzysztof.karol@gmail.com>",
+  "license": "MIT"
+}
